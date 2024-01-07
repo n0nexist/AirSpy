@@ -1,5 +1,5 @@
 # 🌐 AirSpy
-![](https://github.com/n0nexist/AirSpyRemastered/blob/main/screenshot.png?raw=true)
+![](https://github.com/n0nexist/AirSpy/blob/main/screenshot.png?raw=true)
 
 # ❓ What is it
 <b>AirSpy</b> is a <i>wifi scanner</i> written in python3 that retrieves useful informations about the access points near you.<br>
