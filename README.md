@@ -1,4 +1,4 @@
-# 🌐 AirSpyRemastered
+# 🌐 AirSpy
 ![](https://github.com/n0nexist/AirSpyRemastered/blob/main/screenshot.png?raw=true)
 
 # ❓ What is it
