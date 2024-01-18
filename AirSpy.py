@@ -211,7 +211,7 @@ def printTable():
         os.system("clear")
         console.print(Align.center(table, vertical="middle"))
         console.print(Align.center(clients_table, vertical="middle"))
-        time.sleep(0.3)
+        time.sleep(0.8)
 
 Thread(target=hopChannels,args=(inter,)).start()
 Thread(target=printTable).start()
